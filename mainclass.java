@@ -7,6 +7,7 @@ public class mainclass {
 		int a,b;
 		Scanner ab=new Scanner(System.in);
 		abc obj=new abc();
+		System.out.println("enter two no.");
 		a=ab.nextInt();
 		b=ab.nextInt();
 		obj.add(a, b);
