@@ -9,6 +9,7 @@ public static void main(String[] args) {
 	String s2=ab.next();
 	String y1="";
 	String y2="";
+	println("rr");
 	int t=s1.length();
 	int y=s2.length();
 	for(int i =0;i<t;i++) {
